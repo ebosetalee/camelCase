@@ -1,6 +1,5 @@
-# CAMEL CASE LIBRARY
+# CAMEL CASE 
 __A Javascript NPM package/module that converts a dash/dot/underscore/space separated string to _camelCase_ or _PascalCase_.__
-
 
 ## Ex:
 
